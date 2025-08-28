@@ -73,7 +73,7 @@ Para explorar los datos y ejecutar consultas SQL:
 1. **URL:** http://localhost:8080/h2-console
 2. **Configuración de conexión:**
    - **Driver Class:** `org.h2.Driver`
-   - **JDBC URL:** `jdbc:h2:file:./data/testdb`
+   - **JDBC URL:** `jdbc:h2:file:./data/taskdb`
    - **User Name:** `roshkatest123`
    - **Password:** `roshkatest123!  `
 3. **Click:** "Connect"
