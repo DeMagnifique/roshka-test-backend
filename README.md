@@ -75,7 +75,7 @@ Para explorar los datos y ejecutar consultas SQL:
    - **Driver Class:** `org.h2.Driver`
    - **JDBC URL:** `jdbc:h2:file:./data/taskdb`
    - **User Name:** `roshkatest`
-   - **Password:** `roshkatest123  `
+   - **Password:** `roshkatest123`
 3. **Click:** "Connect"
 
 ### Datos Precargados
@@ -226,7 +226,7 @@ SPRING_JPA_SHOW_SQL=true
 
 ### He decidido empezar por Autenticación JWT al ser más sencillo y rápido.
 
-### Adjuntaré mis CURLs nada más, listos para ejecutarse con el servicio corriendo.
+### Adjuntaré mis CURLs listos para copiarse, estos pueden ser pegados en postman como interpreter y ejecutados. Sugiero cambiar los datos si así lo desean, pues, yo he testeado unas cuantas veces los 12 endpoints y en todos los casos son de éexito!
 
 #### 1. Obtener token de usuario. POST /login
 
