@@ -74,8 +74,8 @@ Para explorar los datos y ejecutar consultas SQL:
 2. **Configuración de conexión:**
    - **Driver Class:** `org.h2.Driver`
    - **JDBC URL:** `jdbc:h2:file:./data/taskdb`
-   - **User Name:** `roshkatest123`
-   - **Password:** `roshkatest123!  `
+   - **User Name:** `roshkatest`
+   - **Password:** `roshkatest123  `
 3. **Click:** "Connect"
 
 ### Datos Precargados
